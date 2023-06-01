@@ -1,0 +1,29 @@
+* {
+	text-align: center;
+}
+h1 {
+	color: rgb(45, 133, 133);
+}
+.color-title {
+	font-weight: 100;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+}
+#red {
+	color: red;
+}
+#blue {
+	color: blue;
+}
+#orange {
+	color: orange;
+}
+#green {
+	color: green;
+}
+#yellow {
+	color: yellow;
+}
